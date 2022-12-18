@@ -1,0 +1,8 @@
+D:\Usuário\Usuários\Estudo\C# Udemy\Exercicio_Resolvido_01_Enumeracao\Exercicio_Resolvido_01_Enumeracao\bin\Debug\Exercicio_Resolvido_01_Enumeracao.exe.config
+D:\Usuário\Usuários\Estudo\C# Udemy\Exercicio_Resolvido_01_Enumeracao\Exercicio_Resolvido_01_Enumeracao\bin\Debug\Exercicio_Resolvido_01_Enumeracao.exe
+D:\Usuário\Usuários\Estudo\C# Udemy\Exercicio_Resolvido_01_Enumeracao\Exercicio_Resolvido_01_Enumeracao\bin\Debug\Exercicio_Resolvido_01_Enumeracao.pdb
+D:\Usuário\Usuários\Estudo\C# Udemy\Exercicio_Resolvido_01_Enumeracao\Exercicio_Resolvido_01_Enumeracao\obj\Debug\Exercicio_Resolvido_01_Enumeracao.csproj.AssemblyReference.cache
+D:\Usuário\Usuários\Estudo\C# Udemy\Exercicio_Resolvido_01_Enumeracao\Exercicio_Resolvido_01_Enumeracao\obj\Debug\Exercicio_Resolvido_01_Enumeracao.csproj.SuggestedBindingRedirects.cache
+D:\Usuário\Usuários\Estudo\C# Udemy\Exercicio_Resolvido_01_Enumeracao\Exercicio_Resolvido_01_Enumeracao\obj\Debug\Exercicio_Resolvido_01_Enumeracao.csproj.CoreCompileInputs.cache
+D:\Usuário\Usuários\Estudo\C# Udemy\Exercicio_Resolvido_01_Enumeracao\Exercicio_Resolvido_01_Enumeracao\obj\Debug\Exercicio_Resolvido_01_Enumeracao.exe
+D:\Usuário\Usuários\Estudo\C# Udemy\Exercicio_Resolvido_01_Enumeracao\Exercicio_Resolvido_01_Enumeracao\obj\Debug\Exercicio_Resolvido_01_Enumeracao.pdb
